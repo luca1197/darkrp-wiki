@@ -19,7 +19,7 @@
 
 	{#await getSearchValues()}
 
-		<p>Loading...</p>
+		<p class="my-5 text-center text-xl">Loading search...</p>
 		
 	{:then searchValues} 
 		
@@ -35,7 +35,7 @@
 
 	{:catch error}
 
-		<p>Failed to fetch search values!</p>
+		<p class="my-5 text-center text-xl">Failed to fetch search values!</p>
 
 	{/await}
 
