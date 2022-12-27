@@ -30,7 +30,7 @@
 
 	<div class="p-3 mb-3 mt-5 rounded-xl bg-yellow-600 border border-yellow-600">
 		<p class="text-yellow-900">
-			The content of this wiki is a mostly an exact backup from January 2022 of the <a href="https://darkrp.miraheze.org/wiki/Main_Page">original DarkRP Wiki</a>,
+			The content of this <b>unofficial</b> wiki is a mostly an exact backup from January 2022 of the <a href="https://darkrp.miraheze.org/wiki/Main_Page">original DarkRP Wiki</a>,
 			the content of which <a href="https://meta.miraheze.org/wiki/Tech:SRE_noticeboard">was lost and is potentially being recovered</a>.
 			It consists of community contributions to the original wiki which may be incorrect or contain inappropriate content.
 			The author of this website is not affiliated to <a href="https://github.com/FPtje/DarkRP">DarkRP</a> in any way.
