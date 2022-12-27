@@ -35,7 +35,7 @@
 			It consists of community contributions to the original wiki which may be incorrect or contain inappropriate content.
 			The author of this website is not affiliated to <a href="https://github.com/FPtje/DarkRP">DarkRP</a> in any way.
 			<br>
-			<b>The content is displayed as raw <a href="https://www.mediawiki.org/wiki/Wikitext">Wikitext</a> since it is difficult to parse due to the heavy use of Wikitext templates.</b>
+			<b>The content is displayed as raw <a href="https://meta.wikimedia.org/wiki/Help:Wikitext_examples">Wikitext</a> since it is difficult to parse due to the heavy use of Wikitext templates.</b>
 		</p>
 	</div>
 
